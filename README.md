@@ -14,4 +14,4 @@ These simplecode files are also stored on the SD card of the lasercutter, but th
 (You can disable this using the sys.cleandir setting in the laos config file)
 
 SimpleCode info: http://redmine.laoslaser.org/projects/laos/wiki/SimpleCode
-Based on Rick Companje's work: http://companje.nl/laos-laser-simplecode-preview-tool/
+Based on [@companje](https://github.com/companje)'s work: http://companje.nl/laos-laser-simplecode-preview-tool/
